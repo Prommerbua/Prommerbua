@@ -16,3 +16,6 @@ jobs:
         with:
           template: repository
           token: ${{ secrets.METRICS_TOKEN }}
+          repo: Prommerbua
+          user: Prommerbua
+          
